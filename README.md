@@ -1,0 +1,1 @@
+Coursework for my 3rd year Embedded & IC Design module. Combines pipelining, concurrency, and other embedded concepts to create an ML model.
